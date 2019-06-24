@@ -1,2 +1,1 @@
-# Copy-Disabled-pdf-German-English-Translator
-This repository is created in order to translate (German -English)copy disabled pdf files
+#This respository include python files that are designed to translate (German-English) copy disabled pdf files. (Word in Progress)
